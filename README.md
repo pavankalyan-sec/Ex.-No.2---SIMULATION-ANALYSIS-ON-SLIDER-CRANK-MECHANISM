@@ -45,8 +45,10 @@
 
 ## Output
 
-<img width="1146" height="621" alt="Screenshot 2026-03-12 191555" src="https://github.com/user-attachments/assets/0743793e-d250-42fd-abdc-a8dd4b31e9f4" />
-<img width="1029" height="277" alt="Screenshot 2026-03-12 191539" src="https://github.com/user-attachments/assets/8a136582-0aef-4fd6-8a4a-51d0c36cb50c" />
+<img width="1140" height="629" alt="Screenshot 2026-03-12 192137" src="https://github.com/user-attachments/assets/ac3f8d78-d5cd-4a61-9616-161b277e1938" />
+<img width="1032" height="283" alt="Screenshot 2026-03-12 192114" src="https://github.com/user-attachments/assets/7a2b06b6-7669-45d0-b4a4-1080efe66b02" />
+
+
 
 
 ### Name: Pavan Kalyan P
